@@ -6,7 +6,7 @@ The dashboards provide a visual overview of trends, demographics, and geographic
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview] ("")
+![Dashboard Preview] ("https://github.com/vamshi388/Crimes_analysis_india/tree/main")
 
 ## 📊 Dashboards Overview
 
