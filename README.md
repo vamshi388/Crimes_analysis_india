@@ -8,8 +8,6 @@ The dashboards provide a visual overview of trends, demographics, and geographic
 ## 📊 Dashboards Overview
 
 ### 1. KIDNAPPING VICTIMS DASHBOARD (INDIA)
-![preview] ("https://github.com/vamshi388/Crimes_analysis_india/tree/main")
-
 **Key Insights:**
 - Total Victims: **536K**
 - Female Victims: **384K (71.7%)**
