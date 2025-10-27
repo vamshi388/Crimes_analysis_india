@@ -5,6 +5,9 @@ The dashboards provide a visual overview of trends, demographics, and geographic
 
 ---
 
+## 📷 Dashboard Preview
+![Dashboard Preview] ("")
+
 ## 📊 Dashboards Overview
 
 ### 1. KIDNAPPING VICTIMS DASHBOARD (INDIA)
